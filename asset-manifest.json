@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/fakestore-react-website/static/css/main.fcf307cf.css",
-    "main.js": "/fakestore-react-website/static/js/main.b5518005.js",
+    "main.js": "/fakestore-react-website/static/js/main.98a9b578.js",
     "static/js/453.96938ea0.chunk.js": "/fakestore-react-website/static/js/453.96938ea0.chunk.js",
     "static/media/fontawesome-webfont.svg?v=4.7.0": "/fakestore-react-website/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
     "static/media/fontawesome-webfont.eot": "/fakestore-react-website/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
@@ -11,11 +11,11 @@
     "static/media/handleCart,js": "/fakestore-react-website/static/media/handleCart,js.4b5ad556ce7d1051c410",
     "index.html": "/fakestore-react-website/index.html",
     "main.fcf307cf.css.map": "/fakestore-react-website/static/css/main.fcf307cf.css.map",
-    "main.b5518005.js.map": "/fakestore-react-website/static/js/main.b5518005.js.map",
+    "main.98a9b578.js.map": "/fakestore-react-website/static/js/main.98a9b578.js.map",
     "453.96938ea0.chunk.js.map": "/fakestore-react-website/static/js/453.96938ea0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fcf307cf.css",
-    "static/js/main.b5518005.js"
+    "static/js/main.98a9b578.js"
   ]
 }
