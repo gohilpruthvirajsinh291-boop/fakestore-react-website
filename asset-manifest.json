@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/gohilpruthvirajsinh291-boop/fakestore-react-website.git/static/css/main.a56f3e18.css",
-    "main.js": "/gohilpruthvirajsinh291-boop/fakestore-react-website.git/static/js/main.11a48f0f.js",
-    "static/js/453.96938ea0.chunk.js": "/gohilpruthvirajsinh291-boop/fakestore-react-website.git/static/js/453.96938ea0.chunk.js",
-    "static/media/fontawesome-webfont.svg?v=4.7.0": "/gohilpruthvirajsinh291-boop/fakestore-react-website.git/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
-    "static/media/fontawesome-webfont.eot": "/gohilpruthvirajsinh291-boop/fakestore-react-website.git/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
-    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/gohilpruthvirajsinh291-boop/fakestore-react-website.git/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
-    "static/media/fontawesome-webfont.woff?v=4.7.0": "/gohilpruthvirajsinh291-boop/fakestore-react-website.git/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
-    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/gohilpruthvirajsinh291-boop/fakestore-react-website.git/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
-    "static/media/handleCart,js": "/gohilpruthvirajsinh291-boop/fakestore-react-website.git/static/media/handleCart,js.4b5ad556ce7d1051c410",
-    "index.html": "/gohilpruthvirajsinh291-boop/fakestore-react-website.git/index.html",
-    "main.a56f3e18.css.map": "/gohilpruthvirajsinh291-boop/fakestore-react-website.git/static/css/main.a56f3e18.css.map",
-    "main.11a48f0f.js.map": "/gohilpruthvirajsinh291-boop/fakestore-react-website.git/static/js/main.11a48f0f.js.map",
-    "453.96938ea0.chunk.js.map": "/gohilpruthvirajsinh291-boop/fakestore-react-website.git/static/js/453.96938ea0.chunk.js.map"
+    "main.css": "/gohilpruthvirajsinh291-boop/fakestore-react-website/static/css/main.9545ab81.css",
+    "main.js": "/gohilpruthvirajsinh291-boop/fakestore-react-website/static/js/main.c72a215a.js",
+    "static/js/453.96938ea0.chunk.js": "/gohilpruthvirajsinh291-boop/fakestore-react-website/static/js/453.96938ea0.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/gohilpruthvirajsinh291-boop/fakestore-react-website/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/gohilpruthvirajsinh291-boop/fakestore-react-website/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/gohilpruthvirajsinh291-boop/fakestore-react-website/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/gohilpruthvirajsinh291-boop/fakestore-react-website/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/gohilpruthvirajsinh291-boop/fakestore-react-website/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/handleCart,js": "/gohilpruthvirajsinh291-boop/fakestore-react-website/static/media/handleCart,js.4b5ad556ce7d1051c410",
+    "index.html": "/gohilpruthvirajsinh291-boop/fakestore-react-website/index.html",
+    "main.9545ab81.css.map": "/gohilpruthvirajsinh291-boop/fakestore-react-website/static/css/main.9545ab81.css.map",
+    "main.c72a215a.js.map": "/gohilpruthvirajsinh291-boop/fakestore-react-website/static/js/main.c72a215a.js.map",
+    "453.96938ea0.chunk.js.map": "/gohilpruthvirajsinh291-boop/fakestore-react-website/static/js/453.96938ea0.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a56f3e18.css",
-    "static/js/main.11a48f0f.js"
+    "static/css/main.9545ab81.css",
+    "static/js/main.c72a215a.js"
   ]
 }
